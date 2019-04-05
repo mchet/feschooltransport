@@ -1,11 +1,13 @@
 <template>
-    
+    <div>find Routes</div>
+
 </template>
 
 <script>
-    export default {
+    import Vue from 'vue';
+    export default Vue.extend( {
         name: "ViewFindRoute"
-    }
+    });
 </script>
 
 <style scoped>

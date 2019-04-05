@@ -1,10 +1,10 @@
 <template>
-    
+    <div> Routes Stops list</div>
 </template>
 
 <script>
     export default {
-        name: "ViewStops"
+        name: "ViewStopsList"
     }
 </script>
 
