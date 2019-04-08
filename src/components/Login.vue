@@ -35,18 +35,12 @@
 </template>
 
 <script lang="ts">
-export default {};
+    export default {};
 
 </script>
 
 <style scoped>
     body {
-        /*width: 100%;*/
-        /*height: 100%;*/
-        /*font-family: Arial;*/
-        /*padding: 0;*/
-        /*margin: 0;*/
-
         background-color: white;
         position: fixed;
         top: 0;
@@ -77,28 +71,16 @@ export default {};
         margin-right: 150px;
         margin-left: 80px;
     }
-    .input-image{
-        padding: 2px 7px;
-        height: 10px;
-        position: absolute;
-        top: 6px;
-    }
-    .control{
-        position: relative;
-        margin-bottom:18px;
-    }
-    .input{
+
+    .input {
         padding: 5px 5px 5px 20px;
         border-style: solid;
         border-color: #aaa;
-        border-radius:4px;
+        border-radius: 4px;
         border-width: 1px;
 
 
     }
-
-
-
 
     .button {
         text-align: center;
@@ -113,6 +95,4 @@ export default {};
         margin-top: 10px;
         cursor: pointer;
     }
-
-
 </style>

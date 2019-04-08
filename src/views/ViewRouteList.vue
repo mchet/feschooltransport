@@ -1,5 +1,5 @@
 <template>
-    <div> Routes List</div>
+    <div>Routes List</div>
 </template>
 
 <script>

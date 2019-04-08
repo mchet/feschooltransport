@@ -1,0 +1,23 @@
+@import './variables';
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  //max-width: 1500px !important;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.control {
+  position: relative;
+  margin-bottom: 18px;
+}
+
+.input-image{
+  padding: 2px 7px;
+  height: 14px;
+  position: absolute;
+  top: 6px;
+}
+
