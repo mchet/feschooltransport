@@ -4,7 +4,7 @@
         <router-link to="login">login</router-link>
         <router-link to="Find Routes">ViewFindRoute</router-link>
         <router-link to="Routes List">ViewRouteList</router-link>
-        <router-link to="Routes Stops list">ViewStopsList</router-link>
+        <router-link :to="{name:'ViewStopsList'}">ViewStopsList</router-link>
         <router-link to="Transports List">ViewTransportList</router-link>
 
         <header class="header">

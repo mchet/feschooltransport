@@ -40,21 +40,6 @@
 </script>
 
 <style scoped>
-    body {
-        background-color: white;
-        position: fixed;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        z-index: 3;
-    }
-
-    .columns {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
 
     .login-columns {
         color: gray;
